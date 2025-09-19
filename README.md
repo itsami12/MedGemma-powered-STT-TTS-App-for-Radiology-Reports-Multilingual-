@@ -1,0 +1,2 @@
+# MedGemma-powered-STT-TTS-App-for-Radiology-Reports-Multilingual-
+Developed an AI-powered multilingual voice assistant for radiology reporting, using Whisper with Pyannote for accurate speech-to-text, and MedGemma LLM to generate structured, FHIR-compliant reports. Built custom wrappers to run heavy models on remote GPUs, enhancing accessibility and efficiency in multilingual healthcare settings.
